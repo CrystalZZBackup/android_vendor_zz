@@ -1,3 +1,8 @@
+# CrystalZZ Version info
+ROM_VERSION_MAJOR := 0
+ROM_VERSION_MINOR := 1
+ROM_VERSION_MAINTENANCE := TEST
+
 # Versioning of the ROM
 
 ifdef BUILDTYPE_NIGHTLY
