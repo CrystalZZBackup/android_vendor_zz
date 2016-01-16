@@ -66,6 +66,9 @@ PRODUCT_COPY_FILES += \
 # Additional packages
 -include vendor/zz/config/packages.mk
 
+# CrystalZZ
+-include vendor/zz/config/czz.mk
+
 # Versioning
 -include vendor/zz/config/version.mk
 
